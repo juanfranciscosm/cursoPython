@@ -6,6 +6,7 @@ print(type(name))
 
 #Hay tres maneras de representar cadenas de texto
 # 1. Comillas dobles
+print("Juan")
 # 2. Comillas simples
 print('Juan')
 # 3. Comillas triples (3 comillas simples) Para escribir con saltos de linea
