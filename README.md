@@ -46,6 +46,7 @@ Crear un material de estudio claro y práctico que pueda servir tanto para repas
 ## 📂 Estructura del repositorio  
 
 cursoPython/
+
 │── Python basics/
 
 │── Funciones y manejo de excepciones/
