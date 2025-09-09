@@ -73,4 +73,31 @@ del numbers2[:2]
 print(numbers2)
 # O toda la lista
 del numbers2
-print(numbers2)
+#print(numbers2)
+
+
+# *** COPIAR LISTAS SIN COMPARTIR MEMORIA CON SLICING ***
+# Cuando se copia la informacion en otra variable diciendo que a = b
+# La informacion y el espacio en memoria se esta compartiendo y los cambios se haran en ambos
+a = [1, 2, 3, 4, 5]
+b = a
+print(a)
+print(b)
+del a[0]
+# consultamos el id del espacio en memoria de ambas variables
+print(id(a))
+print(id(b))
+# Comprobamos que comparten el mismo espacio de memoria por el id
+
+# Para compiar solo la informacion en un nuevo espacio de memoria se usa el slicing
+c = a[:]
+print(id(a))
+print(id(b))
+print(id(c))
+
+
+# Si agregamos un elemento a 'a', este cambio se ve en b, pero no en c.
+a.append(6)
+print(a)
+print(b)
+print(c)
