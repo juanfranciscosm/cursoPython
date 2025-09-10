@@ -9,23 +9,26 @@ La idea es tener un recurso estructurado y claro para repasar conceptos, practic
 ## 📚 Contenidos  
 
 1. **Python Basics**  
-   1. Cadena de caracteres
-   2. Tipos de datos
-   3. Dominio de la función print()
-   4. Operaciones matemáticas avanzadas
-   5. Entrada y manejo de datos
-   6. Manipulación de listas
-   7. Manejo de matrices y tuplas
-   8. Diccionarios
-   9. Estructuras condicionales + Reto: Crear juego de piedra, papel o tijeras
-   11. Iteración y control de bucles + Reto: Crear generadores de numeros pares e impares
-   12. Comprehension Lists + Ejercicios
+   1. Cadena de caracteres.
+   2. Tipos de datos.
+   3. Dominio de la función print().
+   4. Operaciones matemáticas avanzadas.
+   5. Entrada y manejo de datos.
+   6. Manipulación de listas.
+   7. Manejo de matrices y tuplas.
+   8. Diccionarios.
+   9. Estructuras condicionales + Reto: Crear juego de piedra, papel o tijeras.
+   11. Iteración y control de bucles + Reto: Crear generadores de numeros pares e impares.
+   12. Comprehension Lists + Ejercicios.
 
 2. **Funciones y manejo de excepciones**  
-   -
+   1. Funciones y parametros + Ejemplo de calculadora.
+   2. Funcion lambda.
+   3. Recursividad + Reto.
+   4. Manejo de excepciones y errores.
    
-4. **Programación intermedia**  
-   -
+4. **Programación Orientada a Objetos**  
+   1. 
 
 5. **Módulos y librerías**  
    - 
